@@ -1,0 +1,17 @@
+.listItem {
+  list-style-type: none;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-right: 15px;
+  opacity: 0.5;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.active-class {
+  color: #2563eb;
+  opacity: 1;
+  border-bottom: 1px solid #2563eb;
+}
